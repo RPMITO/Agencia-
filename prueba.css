@@ -1,0 +1,25 @@
+body{
+    background-color: #f35282;
+    background-image: url(D.JPEG);
+}
+
+
+
+.A{
+    text-align: left;
+ }
+
+ .B{
+     text-align: center;
+ }
+
+ .notification {
+    background-position: center,right;
+    background-color: #c02d7e;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
